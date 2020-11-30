@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 <img src="/SlQU3mbWmPLSsMYg_20180812_154823.png" alt="banner" align="center" />
 
-<img height="64" width="64" src="https://unpkg.com/simple-icons@v4/icons/php.svg" style="color:#777BB4;" />
+<img src="https://img.shields.io/badge/BadgeText-HexColor?logo=php.svg&logoColor=#777BB4&style=ShieldStyle" />
