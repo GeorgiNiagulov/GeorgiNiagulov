@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 <img src="/SlQU3mbWmPLSsMYg_20180812_154823.png" alt="banner" align="center" />
 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/php.svg" style="color:#777BB4;" />
+<img height="64" width="64" src="https://unpkg.com/simple-icons@v4/icons/php.svg" style="color:#777BB4;" />
