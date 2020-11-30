@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 <img src="/SlQU3mbWmPLSsMYg_20180812_154823.png" alt="banner" align="center" />
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
-<img src="https://github-readme-stats.vercel.app/api?username=GeorgiNiagulov" />
+<img src="https://github-readme-stats.vercel.app/api?username=GeorgiNiagulov&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Aleks+Popovic's+GitHub+Stats&show_icons=true" />
