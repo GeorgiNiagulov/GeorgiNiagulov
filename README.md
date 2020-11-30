@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="/SlQU3mbWmPLSsMYg_20180812_154823.png" alt="banner" align="center" />
-#777BB4
+
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/#777BB4.svg" />
