@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgiNiagulov"
 />
+<a href="https://app.daily.dev/newborn"><img src="https://api.daily.dev/devcards/433666f49abd4adcbb9a804468b84277.png?r=b0q" width="400" alt="Georgi Niagulov's Dev Card"/></a>
 <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 
